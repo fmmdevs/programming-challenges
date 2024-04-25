@@ -10,12 +10,18 @@
 const esAnagrama = function (word1, word2) {
     if (word1 == word2) return false;
     if (word1.length != word2.length) return false;
-    for (let i = 0, j = word1.length - 1; i <= word1.length; i++, j--) {
-        if (word1[i] != word2[j]) return false;
+    let arrayW2 = word2.split("");
+    console.log(word1);
+    console.log(arrayW2);
+    for (let i = 0; i < word1.length; i++) {
+        console.log(i);
+        if (arrayW2.includes(word1[i])) {
+            arrayW2.splice(arrayW2.indexOf(word1[i]), 1);
+        }
     }
-    return true;
+    return arrayW2.length == 0 ? true : false;
 }
-
+console.log(esAnagrama("asda", "asdf"));
 console.log(esAnagrama("asdfg", "gfdsa"));
 console.log(esAnagrama("qw", "wq"));
 console.log(esAnagrama("manola", "monalo"));
