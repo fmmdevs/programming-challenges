@@ -35,7 +35,7 @@
     
   </li>
     <li>
-<a href="https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/006%20Revertir%20Cadena](https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/008%20Contando%20Palabras">9. Contando Palabras</a>
+<a href="[https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/006%20Revertir%20Cadena](https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/008%20Contando%20Palabras](https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/008%20Contando%20Palabras)">9. Contando Palabras</a>
     
   </li>
    <li>
