@@ -29,8 +29,13 @@
 <a href="https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/006%20Revertir%20Cadena">7. Revertir Cadena</a>
     
   </li>
+
    <li>
-<a href="https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/007%20Decimal%20a%20Binario">9. Dec to Bin</a>
+<a href="https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/007%20Decimal%20a%20Binario">8. Dec to Bin</a>
+    
+  </li>
+    <li>
+<a href="https://github.com/fmmdevs/programming-challenges/tree/main/programming-challenges/006%20Revertir%20Cadena">9. Contando Palabras</a>
     
   </li>
    <li>
