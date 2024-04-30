@@ -83,6 +83,7 @@ const equilibrium = (exp) => {
 // console.log(equilibrium(exp1));
 // equilibrium(exp2);
 console.log(equilibrium(exp2));
+
 // equilibrium(exp4);
 // equilibrium(exp5);
 // equilibrium(exp6);
